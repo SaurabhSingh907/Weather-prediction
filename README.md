@@ -1,4 +1,4 @@
-Project Title: Weather Data Analysis and Temperature Prediction
+#Weather Data Analysis and Temperature Prediction
 
 Project Goal: To predict the maximum daily temperature (tmax) for a weather station using a Ridge Regression model.
 
